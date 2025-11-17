@@ -7,3 +7,4 @@
 * salt
 	*0.003$
 ## Instructions
+* open the avocc and make sure to cut yourself
