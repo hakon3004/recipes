@@ -9,3 +9,8 @@
 ## Instructions
 * open the avocc and make sure to cut yourself
 
+<<<<<<< HEAD
+*something
+=======
+*something
+>>>>>>> dabb4blabla
