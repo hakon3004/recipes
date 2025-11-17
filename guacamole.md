@@ -7,3 +7,5 @@
 * salt
 	*0.003$
 ## Instructions
+
+open the avocado without cutting yourself.
